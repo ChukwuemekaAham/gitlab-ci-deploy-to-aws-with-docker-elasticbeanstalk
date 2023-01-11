@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 24.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 586 559" style="enable-background:new 0 0 586 559;" xml:space="preserve">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 586 559" style="enable-background:new 0 0 586 559;" xmlSpace="preserve">
 <style type="text/css">
 	.st0{fill:#FAFAFA;}
 	.st1{fill:#F0F0F0;}
@@ -73,10 +73,10 @@
 		C298.503,434.043,298.392,434.143,298.281,434.241z M444.766,308.13l-110.557,80.317l98.703-126.467l13.412,41.307
 		C446.906,305.083,446.279,307.03,444.766,308.13z"/>
 </g>
-<g id="spacing_guides" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns" class="st14">
-	<path id="path40_63_" sketch:type="MSShapeGroup" class="st15" d="M0,0.5v124h586V0.5H0L0,0.5z"/>
-	<path id="path40_36_" sketch:type="MSShapeGroup" class="st15" d="M0,435.5v124h586v-124H0L0,435.5z"/>
-	<path id="path40_25_" sketch:type="MSShapeGroup" class="st15" d="M462.2,560h124V0h-124V560L462.2,560z"/>
+<g id="spacing_guides" xmlnsSketch="http://www.bohemiancoding.com/sketch/ns" class="st14">
+	<path id="path40_63_" sketchType="MSShapeGroup" class="st15" d="M0,0.5v124h586V0.5H0L0,0.5z"/>
+	<path id="path40_36_" sketchType="MSShapeGroup" class="st15" d="M0,435.5v124h586v-124H0L0,435.5z"/>
+	<path id="path40_25_" sketchType="MSShapeGroup" class="st15" d="M462.2,560h124V0h-124V560L462.2,560z"/>
 	<g class="st16">
 		<text transform="matrix(1 0 0 1 511.2881 283.332)" class="st18 st19">1x</text>
 	</g>
@@ -86,7 +86,7 @@
 	<g class="st16">
 		<text transform="matrix(1 0 0 1 281.2881 65.9981)" class="st18 st19">1x</text>
 	</g>
-	<path id="path40_24_" sketch:type="MSShapeGroup" class="st15" d="M0,560h124V0H0V560L0,560z"/>
+	<path id="path40_24_" sketchType="MSShapeGroup" class="st15" d="M0,560h124V0H0V560L0,560z"/>
 	<g class="st16">
 		<text transform="matrix(1 0 0 1 51.2881 283.332)" class="st18 st19">1x</text>
 	</g>
